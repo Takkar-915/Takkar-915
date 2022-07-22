@@ -1,5 +1,6 @@
 ### Hi there 👋
-I’m currently learning machine learning, Python, Java.
+I’m a colleage student of Shizuoka University.  
+I’m currently learning machine learning, Python and Java.  
 I want to become a programmer.
 <!--
 **Takkar-915/Takkar-915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
