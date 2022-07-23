@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m a colleage student of Shizuoka University.  
 I’m currently learning machine learning, Python and Java.  
-I want to become a programmer.
+I want to become a programmer after graduation.
 <!--
 **Takkar-915/Takkar-915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
