@@ -1,7 +1,8 @@
 ### Hi there 👋
-I’m a colleage student of Shizuoka University.  
-I’m currently learning machine learning, python and java.  
+I'm a student of Shizuoka University.  
 I want to become a programmer after graduation.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ri-regen&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 <!--
 **Takkar-915/Takkar-915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
