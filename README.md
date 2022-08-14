@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takkar-915&hide=Roff,JupyterNotebook)](https://github.com/Takkar-915/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takkar-915&hide=Roff,Jupyter%20Notebook)](https://github.com/Takkar-915/github-readme-stats)
 
 
 
