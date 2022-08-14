@@ -1,6 +1,4 @@
 ### Hi there 👋
-I'm a student of Shizuoka University.  
-I want to become a programmer after graduation.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takkar-915)](https://github.com/Takkar-915/github-readme-stats)
 
 
