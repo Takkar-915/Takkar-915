@@ -2,7 +2,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takkar-915&hide=Jupyter%20Noteboo&layout=compact&show_icons=true&theme=onedark" />
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takkar-915&hide=jupyter%20notebook,shaderlab,tex,c%23" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takkar-915&hide=jupyter%20notebook,blade,tex,c%23" />
 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takkar-915&theme=onedark&show_icons=ture" />
 </p>
