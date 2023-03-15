@@ -5,3 +5,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Takkar-915&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 資格
+* TOEIC公開テスト 850点
+* 実用英語技能検定準1級
+* 普通自動車免許
+
+## 勉強中
+* 応用情報技術者 (2023/04月受験予定)
